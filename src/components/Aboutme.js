@@ -1,5 +1,5 @@
 import React from 'react';
-import me from './Passport size.jpg'
+import me from './download.jpg'
 const AboutMe = () => {
   return (
     <section id="aboutme">
